@@ -1,0 +1,19 @@
+{
+	"headMode": "hiv_active(+compound)",
+	"bodyModes": [
+		"compounds(+compound,-atom)",
+		"atoms(+atom,-element)",
+		"atoms(+atom,#element)",
+		"atoms_p2(+atom,-p2)",
+		"atoms_p2(+atom,#p2)",
+		"atoms_p3(+atom,-p3)",
+		"atoms_p3(+atom,#p3)",
+		"bonds(+bond,-atom,-atom,-type)",
+		"bonds(+bond,-atom,-atom,#type)",
+		"bonds(-bond,+atom,-atom,-type)",
+		"bonds(-bond,+atom,-atom,#type)",
+		"bonds(-bond,-atom,+atom,-type)",
+		"bonds(-bond,-atom,+atom,#type)"
+	],
+	"spName": "HIVProcedure"
+}

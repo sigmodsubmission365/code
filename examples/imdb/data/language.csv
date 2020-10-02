@@ -1,0 +1,343 @@
+1,Italian
+2,English
+3,Spanish
+4,Swiss German
+5,Dutch
+6,Portuguese
+7,Norwegian
+8,Russian
+9,Finnish
+10,German
+11,Serbo-Croatian
+12,Scottish Gaelic
+13,Filipino
+14,Tagalog
+15,Hindi
+16,Macedonian
+17,Swedish
+18,Catalan
+19,French
+20,Greek
+21,Danish
+22,Japanese
+23,Korean
+24,Chinese
+25,Polish
+26,Turkish
+27,Galician
+28,Croatian
+29,Albanian
+30,Bulgarian
+31,Malay
+32,Hebrew
+33,Czech
+34,Romanian
+35,Irish Gaelic
+36,Afrikaans
+37,Yiddish
+38,Welsh
+39,Berber
+40,Hungarian
+41,Guarani
+42,Serbian
+43,Arabic
+44,Mandarin
+45,Persian
+46,Azerbaijani
+47,Brazilian Sign Language
+48,Estonian
+49,Slovak
+50,Thai
+51,Kalmyk-Oirat
+52,Tibetan
+53,Quechua
+54,Cantonese
+55,Slovenian
+56,Latvian
+57,Lithuanian
+58,Zulu
+59,None
+60,Urdu
+61,Sotho
+62,Icelandic
+63,Vietnamese
+64,Hausa
+65,Ladino
+66,Basque
+67,Hakka
+68,Tamil
+69,Bengali
+70,Malayalam
+71,Punjabi
+72,Marathi
+73,Flemish
+74,American Sign Language
+75,Latin
+76,Hawaiian
+77,Faroese
+78,Maori
+79,Taiwanese
+80,Haitian
+81,Swahili
+82,Dari
+83,Pashtu
+84,Nama
+85,Kazakh
+86,Khmer
+87,Indonesian
+88,Ukrainian
+89,Uzbek
+90,Klingon
+91,Ndebele
+92,Visayan
+93,Marshallese
+94,Aboriginal
+95,Cherokee
+96,Ojibwa
+97,Armenian
+98,Telugu
+99,Gaelic
+100,Tlingit
+101,Fon
+102,Aramaic
+103,Sinhala
+104,Luxembourgish
+105,Maltese
+106,Georgian
+107,Romansh
+108,Nepali
+109,Kannada
+110,Kurdish
+111,Lao
+112,Hokkien
+113,Frisian
+114,Old English
+115,Belarusian
+116,Turkmen
+117,Kyrgyz
+118,Breton
+119,Tswana
+120,Crow
+121,Mohawk
+122,Indian Sign Language
+123,Chaozhou
+124,North American Indian
+125,Awadhi
+126,Bambara
+127,Xhosa
+128,Sindhi
+129,Sorbian languages
+130,Rajasthani
+131,Shoshoni
+132,Letzebuergesh
+133,Papiamento
+134,Corsican
+135,Cree
+136,Romany
+137,Yoruba
+138,Bosnian
+139,Sanskrit
+140,Esperanto
+141,Parsee
+142,Ibo
+143,Saami
+144,Tok Pisin
+145,Chechen
+146,Creole
+147,Hmong
+148,Somali
+149,Asturian
+150,Australian Sign Language
+151,Micmac
+152,Maya
+153,Peul
+154,Sindarin
+155,Dinka
+156,British Sign Language
+157,Neapolitan
+158,Creek
+159,Bhojpuri
+160,Samoan
+161,Tsonga
+162,Min Nan
+163,"Greek, Ancient (to 1453)"
+164,Sicilian
+165,Konkani
+166,Sioux
+167,Tatar
+168,Syriac
+169,Assamese
+170,Algonquin
+171,Bable
+172,Maasai
+173,Wolof
+174,Mongolian
+175,Sranan
+176,Shona
+177,Gujarati
+178,Oriya
+179,Uighur
+180,Kinyarwanda
+181,Kashmiri
+182,Rotuman
+183,Cornish
+184,Polynesian
+185,French Sign Language
+186,Sign Languages
+187,Russian Sign Language
+188,Spanish Sign Language
+189,Greenlandic
+190,Inuktitut
+191,Scanian
+192,Japanese Sign Language
+193,Dogri
+194,Azeri
+195,Mandingo
+196,Amharic
+197,German Sign Language
+198,Ungwatsi
+199,Apache languages
+200,Mapudungun
+201,Lingala
+202,Tonga (Tonga Islands)
+203,Romansch
+204,Middle English
+205,Central Khmer
+206,East-Greenlandic
+207,Burmese
+208,Navajo
+209,Hopi
+210,Masai
+211,Nyanja
+212,Occitan
+213,"Norse, Old"
+214,Shanghainese
+215,Shanxi
+216,Tulu
+217,Creoles and pidgins
+218,Akan
+219,Egyptian (Ancient)
+220,Teochew
+221,Dzongkha
+222,Malagasy
+223,Yakut
+224,Macro-Jê
+225,Karaja
+226,Tzotzil
+227,Tswa
+228,Pular
+229,Gikuyu
+230,Kikuyu
+231,Kabuverdianu
+232,Manipuri
+233,More
+234,Acholi
+235,Assyrian Neo-Aramaic
+236,Kirundi
+237,Kru languages
+238,Korean Sign Language
+239,Fulah
+240,Berber languages
+241,Tajik
+242,Bemba
+243,Wayuu
+244,Abkhazian
+245,Tamashek
+246,Karen
+247,Aymara
+248,Pawnee
+249,Tupi
+250,Tigrigna
+251,Mende
+252,Bicolano
+253,Athapascan languages
+254,Nahuatl
+255,Sardinian
+256,Aromanian
+257,Fula
+258,Purepecha
+259,Iban
+260,Aché
+261,Baka
+262,Bassari
+263,Malinka
+264,Montagnais
+265,Magahi
+266,Maithili
+267,Eastern Frisian
+268,Morisyen
+269,Aidoukrou
+270,Jola-Fonyi
+271,Nushi
+272,Ladakhi
+273,Kuna
+274,Djerma
+275,Korowai
+276,Hassanya
+277,Dioula
+278,Haryanvi
+279,Inupiaq
+280,Ryukyuan
+281,Ewe
+282,Tarahumara
+283,Ju'hoan
+284,Serer
+285,Grebo
+286,Fur
+287,Western Frisian
+288,Low German
+289,Dyula
+290,Bodo
+291,Ibibio
+292,Aragonese
+293,Ojihimba
+294,Faliasch
+295,Khanty
+296,Kunwinjku
+297,Moso
+298,Nisga'a
+299,Nenets
+300,Divehi
+301,Serere
+302,Songhay
+303,Cheyenne
+304,Kudmali
+305,Bikol
+306,Tuvan
+307,Nagpuri
+308,Mirandese
+309,Minangkabau
+310,Central American Indian languages
+311,Rawan
+312,Balinese
+313,Arapaho
+314,Icelandic Sign Language
+315,Sousson
+316,Khasi
+317,Malecite-Passamaquoddy
+318,Karen languages
+319,Mizo
+320,Scots
+321,Kriolu
+322,Kabyle
+323,Soninke
+324,Kikongo
+325,Desia
+326,Gumatj
+327,Masalit
+328,Chhattisgarhi
+329,Mari
+330,Nyaneka
+331,Kodava
+332,Limbu
+333,Sylhetti
+334,Washoe
+335,Karbi
+336,Desiya
+337,Kwakiutl
+338,Kaado
+339,Quenya
+340,Kru
+341,Shuar
+342,Shoshone
+343,Yapese

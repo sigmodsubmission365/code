@@ -1,0 +1,64 @@
+{
+	"inds": [
+		{
+			"leftRelation": "movies",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies2genres",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies2genres",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies2colors",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies2colors",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies2prodcompanies",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies2prodcompanies",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies2directors",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies2directors",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies2producers",
+			"rightAttributeNumber": 0
+		},
+		{
+			"leftRelation": "movies2producers",
+			"leftAttributeNumber": 0,
+			"rightRelation": "movies",
+			"rightAttributeNumber": 0
+		}
+	]
+}
